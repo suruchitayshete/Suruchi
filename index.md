@@ -1,2 +1,2 @@
 ## System Design Assignments 2022
-<h3 font style="font-family:verdana;"> Assignments </h3>
+<h3 style="font-family:verdana;"> Assignments </h3>
